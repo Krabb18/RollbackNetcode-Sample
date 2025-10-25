@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RollbackSandbox": {
+      "commandName": "Project",
+      "commandLineArgs": "9000 2 play local 127.0.0.1:9001"
+    }
+  }
+}

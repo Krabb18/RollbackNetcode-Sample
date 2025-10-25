@@ -1,0 +1,12 @@
+00:00.033 inf: Adding {RemotePlayer: 2} at 127.0.0.1:9001
+00:00.057 inf: Synchronize {RemotePlayer: 2} with 10 roundtrips
+00:00.271 inf: Player 1 Synchronized! (Ping: 0,0076)
+00:00.527 inf: Queue 0 => Adding padding frame 0 to account for change in frame delay
+00:00.531 inf: Queue 0 => Adding padding frame 1 to account for change in frame delay
+00:00.570 inf: Queue 1 => Adding padding frame 0 to account for change in frame delay
+00:00.570 inf: Queue 1 => Adding padding frame 1 to account for change in frame delay
+00:01.893 inf: Sending keep alive packet
+00:02.093 inf: Sending keep alive packet
+00:02.415 inf: time sync: recommending sleep: 3, total:3, max:9
+00:06.432 inf: time sync: recommending sleep: 9, total:12, max:9
+00:08.383 inf: Shutting down connections

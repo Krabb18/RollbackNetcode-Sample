@@ -1,0 +1,84 @@
+00:00.081 inf: Adding {RemotePlayer: 2} at 127.0.0.1:9001
+00:00.117 inf: Synchronize {RemotePlayer: 2} with 10 roundtrips
+00:00.384 inf: Player 1 Synchronized! (Ping: 0,0082)
+00:00.765 inf: Queue 1 => Adding padding frame 0 to account for change in frame delay
+00:00.770 inf: Queue 1 => Adding padding frame 1 to account for change in frame delay
+00:00.803 inf: Queue 0 => Adding padding frame 0 to account for change in frame delay
+00:00.803 inf: Queue 0 => Adding padding frame 1 to account for change in frame delay
+00:02.146 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:74 last sent:57). Resending
+00:02.146 inf: Sending keep alive packet
+00:02.348 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:74 last sent:57). Resending
+00:02.548 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:74 last sent:57). Resending
+00:03.514 warn: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.514 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.535 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.555 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.576 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.576 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.597 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.618 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.638 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.658 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.658 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.679 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.700 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.721 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.742 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.742 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.745 inf: Sending keep alive packet
+00:03.747 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:123 last sent:140). Resending
+00:03.763 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.784 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.804 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.824 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.824 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.845 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.865 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.887 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.907 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.907 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.928 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.947 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:123 last sent:140). Resending
+00:03.949 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.970 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.991 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:03.991 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.011 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.031 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.051 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.072 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.092 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.092 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.112 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.132 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+00:04.146 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:123 last sent:140). Resending
+00:04.153 inf: Rejecting input for frame 139 from emulator: reached prediction barrier
+01:35.747 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:5628 last sent:5636). Resending
+01:35.907 warn: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:35.924 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:35.940 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:35.946 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:5628 last sent:5645). Resending
+01:35.957 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:35.974 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:35.990 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.007 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.024 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.040 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.057 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.074 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.090 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.107 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.124 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.140 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.147 inf: {RemotePlayer: 2} haven't exchanged packets in a while (last received:5628 last sent:5645). Resending
+01:36.157 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.174 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.191 warn: {RemotePlayer: 2} endpoint has stopped receiving packets for 762ms. Sending notification
+01:36.191 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.207 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.224 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.240 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.257 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.298 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.298 inf: Rejecting input for frame 5644 from emulator: reached prediction barrier
+01:36.300 inf: Shutting down connections

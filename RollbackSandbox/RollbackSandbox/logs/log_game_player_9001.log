@@ -1,0 +1,101 @@
+00:00.032 inf: Adding {RemotePlayer: 1} at 127.0.0.1:9000
+00:00.055 inf: Synchronize {RemotePlayer: 1} with 10 roundtrips
+00:00.564 inf: No luck syncing {RemotePlayer: 1} after 510ms. Re-queueing sync packet
+00:01.078 inf: No luck syncing {RemotePlayer: 1} after 513ms. Re-queueing sync packet
+00:01.581 inf: No luck syncing {RemotePlayer: 1} after 502ms. Re-queueing sync packet
+00:02.085 inf: No luck syncing {RemotePlayer: 1} after 503ms. Re-queueing sync packet
+00:02.589 inf: No luck syncing {RemotePlayer: 1} after 503ms. Re-queueing sync packet
+00:02.833 inf: Player 0 Synchronized! (Ping: 0,0074)
+00:02.880 inf: Queue 1 => Adding padding frame 0 to account for change in frame delay
+00:02.886 inf: Queue 1 => Adding padding frame 1 to account for change in frame delay
+00:03.112 warn: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.133 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.133 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.154 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.175 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.196 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.217 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.217 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.238 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.259 inf: Rejecting input for frame 16 from emulator: reached prediction barrier
+00:03.280 inf: Queue 0 => Adding padding frame 0 to account for change in frame delay
+00:03.280 inf: Queue 0 => Adding padding frame 1 to account for change in frame delay
+00:03.315 warn: Rejecting input for frame 18 from emulator: reached prediction barrier
+00:03.315 inf: Rejecting input for frame 18 from emulator: reached prediction barrier
+00:03.336 inf: Rejecting input for frame 18 from emulator: reached prediction barrier
+00:03.420 inf: time sync: recommending sleep: 3, total:3, max:9
+00:04.277 warn: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.298 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.298 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.319 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.340 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.361 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.382 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.382 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.403 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.424 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.445 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.446 inf: {RemotePlayer: 1} haven't exchanged packets in a while (last received:57 last sent:74). Resending
+00:04.466 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.466 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.487 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.508 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.528 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.549 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.549 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.569 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.590 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.610 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.630 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.646 inf: {RemotePlayer: 1} haven't exchanged packets in a while (last received:57 last sent:74). Resending
+00:04.651 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.651 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.672 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.692 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.713 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.734 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.734 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.754 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.775 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.796 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.817 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.817 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.838 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.847 inf: {RemotePlayer: 1} haven't exchanged packets in a while (last received:57 last sent:74). Resending
+00:04.858 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.879 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.900 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.900 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.921 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.941 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.961 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.982 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:04.982 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:05.003 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:05.024 inf: Rejecting input for frame 73 from emulator: reached prediction barrier
+00:06.246 inf: {RemotePlayer: 1} haven't exchanged packets in a while (last received:140 last sent:123). Resending
+00:06.447 inf: {RemotePlayer: 1} haven't exchanged packets in a while (last received:140 last sent:123). Resending
+00:08.489 inf: time sync: recommending sleep: 9, total:12, max:9
+00:12.505 inf: time sync: recommending sleep: 9, total:12, max:9
+00:16.522 inf: time sync: recommending sleep: 9, total:12, max:9
+00:20.539 inf: time sync: recommending sleep: 9, total:12, max:9
+00:24.555 inf: time sync: recommending sleep: 9, total:12, max:9
+00:28.572 inf: time sync: recommending sleep: 9, total:12, max:9
+00:32.589 inf: time sync: recommending sleep: 9, total:12, max:9
+00:36.605 inf: time sync: recommending sleep: 9, total:12, max:9
+00:40.622 inf: time sync: recommending sleep: 9, total:12, max:9
+00:44.639 inf: time sync: recommending sleep: 9, total:12, max:9
+00:48.655 inf: time sync: recommending sleep: 9, total:12, max:9
+00:52.672 inf: time sync: recommending sleep: 9, total:12, max:9
+00:56.689 inf: time sync: recommending sleep: 9, total:12, max:9
+01:00.705 inf: time sync: recommending sleep: 9, total:12, max:9
+01:04.722 inf: time sync: recommending sleep: 9, total:12, max:9
+01:08.739 inf: time sync: recommending sleep: 9, total:12, max:9
+01:12.755 inf: time sync: recommending sleep: 9, total:12, max:9
+01:16.772 inf: time sync: recommending sleep: 9, total:12, max:9
+01:20.789 inf: time sync: recommending sleep: 9, total:12, max:9
+01:24.805 inf: time sync: recommending sleep: 9, total:12, max:9
+01:28.822 inf: time sync: recommending sleep: 9, total:12, max:9
+01:32.839 inf: time sync: recommending sleep: 9, total:12, max:9
+01:36.855 inf: time sync: recommending sleep: 9, total:12, max:9
+01:37.879 inf: Shutting down connections
